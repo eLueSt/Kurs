@@ -1,1 +1,1 @@
-Zmieniona linijka tekstu.
+Linijka tekstu zmodyfikowana po raz pierwszy i  ponownie.
